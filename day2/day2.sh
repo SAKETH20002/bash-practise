@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# this is a scrpit  for  see data of the files and directories in the current path 
 echo  WELCOME STRANGER!!! 
 
 echo "the files and directories in the current path are: "
